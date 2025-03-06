@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaJoel.AppMVCDataBaseFirst", "PracticaJoel.AppMVCDataBaseFirst\PracticaJoel.AppMVCDataBaseFirst.csproj", "{C7E676C2-7B93-4DA9-9F4E-B88204D28FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaJoel.AppMVCCodeFirst", "PracticaJoel.AppMVCCodeFirst\PracticaJoel.AppMVCCodeFirst.csproj", "{64415245-9560-406A-85C9-1D4105DDB578}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C7E676C2-7B93-4DA9-9F4E-B88204D28FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E676C2-7B93-4DA9-9F4E-B88204D28FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E676C2-7B93-4DA9-9F4E-B88204D28FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64415245-9560-406A-85C9-1D4105DDB578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64415245-9560-406A-85C9-1D4105DDB578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64415245-9560-406A-85C9-1D4105DDB578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64415245-9560-406A-85C9-1D4105DDB578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
